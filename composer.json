@@ -1,0 +1,13 @@
+{
+    "name": "twomiao/timer",
+    "description": "异步定任务",
+    "authors": [
+        {
+            "name": "twomiao",
+            "email": "995200452@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    }
+}
